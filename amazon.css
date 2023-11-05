@@ -1,0 +1,147 @@
+.logo{
+    width: 150px;
+    height: 80px;
+    margin-left: 580px;
+    margin-top: -1%;
+}
+.main-box{
+    width: 350px;
+    height: 450px;
+    margin-left: 480px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(185, 185, 185);
+    background: rgb(255, 253, 253);
+    border-style: solid;
+}
+.sign-in{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400px;
+    letter-spacing: 1.5;
+    color: rgb(66, 65, 65);
+    font-size: xx-large;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.email{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(66, 65, 65);
+    padding-left: 30px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.email-1{
+    width: 280px;
+    height: 23px;
+}
+.text-1{
+    width: 280px;
+    height: 23px;
+}
+.password{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(11, 146, 199);
+    padding-left: 180px;
+    margin-top: -14%;
+    transition: color 0.15s;
+    transition: underline 0.15s;
+    cursor: pointer;
+}
+.password:hover{
+    color: rgb(243, 130, 0);
+    text-decoration: underline;
+}
+.sign-in2{
+    background-color: rgb(255, 208, 0);
+    width: 290px;
+    height: 30px;
+    border-radius: 9px;
+    border-color: rgb(255, 208, 0);
+    border-style: solid;
+    margin-left: 30px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+.sign-in2:hover{
+    background-color: rgb(243, 130, 0);
+    border-style: solid;
+    border-color: rgb(243, 130, 0);
+}
+.para{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-top: 20px;
+    margin-left: 30px;
+    margin-right: 22px;
+    color: rgb(66, 65, 65);
+    transition: color 0.15s;
+    cursor: pointer;
+}
+.para:hover{
+    color: rgb(11, 146, 199);
+}
+.small-box{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(66, 65, 65);
+    margin-left: 27px;
+    margin-top: 19px;
+    font-size: small;
+}
+.details{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    color: rgb(11, 146, 199);
+    transition: color;
+    cursor: pointer;
+    margin-left: 177px;
+    transition: underline 0.15s;
+    margin-top: -4.3%;
+}
+.details:hover{
+    color: rgb(243, 130, 0);
+    text-decoration: underline;
+}
+.new{
+    color: rgb(146, 146, 146);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 125px;
+    margin-top: 28px;
+}
+.create{
+    width: 300px;
+    height: 35px;
+    margin-left: 27px;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(185, 185, 185);
+    background: rgb(255, 253, 253);
+    border-style: solid;
+    margin-top: 20px;
+    cursor: pointer;
+}
+.seperator{
+    border: none;
+    border-top: 1px solid rgb(214, 214, 214);
+}
+.policies{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    margin-left: 535px;
+    color: rgb(11, 146, 199);
+    transition: color 0.15s;
+    transition: underline 0.15s;
+    cursor: pointer;
+}
+.policies:hover{
+    color: rgb(243, 130, 0);
+    text-decoration: underline;
+}
+.copyright{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    margin-left: 539px;
+}
